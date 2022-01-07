@@ -1,0 +1,14 @@
+C:\Users\infin\Desktop\Hack_Software\Zhigolo\Zhigolo\bin\Debug\Zhigolo.exe.config
+C:\Users\infin\Desktop\Hack_Software\Zhigolo\Zhigolo\bin\Debug\Zhigolo.exe
+C:\Users\infin\Desktop\Hack_Software\Zhigolo\Zhigolo\bin\Debug\Zhigolo.pdb
+C:\Users\infin\Desktop\Hack_Software\Zhigolo\Zhigolo\bin\Debug\TeleSharp.TL.dll
+C:\Users\infin\Desktop\Hack_Software\Zhigolo\Zhigolo\bin\Debug\TLSharp.Core.dll
+C:\Users\infin\Desktop\Hack_Software\Zhigolo\Zhigolo\obj\Debug\Zhigolo.csproj.SuggestedBindingRedirects.cache
+C:\Users\infin\Desktop\Hack_Software\Zhigolo\Zhigolo\obj\Debug\Zhigolo.Form1.resources
+C:\Users\infin\Desktop\Hack_Software\Zhigolo\Zhigolo\obj\Debug\Zhigolo.Properties.Resources.resources
+C:\Users\infin\Desktop\Hack_Software\Zhigolo\Zhigolo\obj\Debug\Zhigolo.csproj.GenerateResource.cache
+C:\Users\infin\Desktop\Hack_Software\Zhigolo\Zhigolo\obj\Debug\Zhigolo.csproj.CoreCompileInputs.cache
+C:\Users\infin\Desktop\Hack_Software\Zhigolo\Zhigolo\obj\Debug\Zhigolo.csproj.CopyComplete
+C:\Users\infin\Desktop\Hack_Software\Zhigolo\Zhigolo\obj\Debug\Zhigolo.exe
+C:\Users\infin\Desktop\Hack_Software\Zhigolo\Zhigolo\obj\Debug\Zhigolo.pdb
+C:\Users\infin\Desktop\Hack_Software\Zhigolo\Zhigolo\obj\Debug\Zhigolo.csproj.AssemblyReference.cache
